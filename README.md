@@ -109,3 +109,6 @@ Troubleshooting
 2. Verify the LED strip connections and power supply.
 3. Check if the correct IR values are mapped in mapIRValue.
 4. check the configuration of the LEDs RGB GRB etc..
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
